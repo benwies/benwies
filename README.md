@@ -1,13 +1,13 @@
-<h1 align="center">Hi ??, I'm Benedikt</h1>
+<h1 align="center">Hi 👋, I'm Benedikt</h1>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/4SdB78W.gif">
-- ?? I’m currently learning **Java and Python**
+- 🌱 I’m currently learning **Java, Python**
 
-- ? Fun fact **I'm bad af**
+- ⚡ Fun fact **I'm bad af**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/bene.phnx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bene.phnx" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/662640723858030632" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="662640723858030632" height="30" width="40" /></a>
+<a href="https://discord.gg/phoenix.phnx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="phoenix.phnx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
