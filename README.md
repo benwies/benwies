@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benedikt</h1>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/4SdB78W.gif">
 
+
 - 🌱 I’m currently learning **Java, Python**
 
 - 📫 How to reach me: **Discord**
