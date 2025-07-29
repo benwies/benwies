@@ -1,12 +1,18 @@
 <div align="center">
 <img src="https://i.pinimg.com/736x/9b/93/50/9b9350ad52baa585413765d064d53bca.jpg" align="center" style="width: 100%" />
 </div>  
+
+## Connect with me  
+<div align="center">
+<a href="https://www.linkedin.com/in/benedikt-wiesner" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>  
+</div>
+
+## Learning  
   
 
-### <div align="center">Welcome</div>  
-  
-
-- Learning Java, Python  
+- Learning Java, Python, PNPT cert, Cybersec offensive/defensive  
   
 
 <br/>  
@@ -61,17 +67,6 @@
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-<a href="https://instagram.com/bene.phnx" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/benwies" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
 <br/>  
 
